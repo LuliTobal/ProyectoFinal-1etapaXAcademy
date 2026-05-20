@@ -22,3 +22,6 @@ npm-debug.log*
 # IDE
 .vscode/
 .idea/
+
+# Base de datos(es muy pesado)
+database/init.sql
